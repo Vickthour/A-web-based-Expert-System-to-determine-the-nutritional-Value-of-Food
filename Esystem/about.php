@@ -69,10 +69,6 @@ include('conn.php');
 			</div>
 
 			<div class="body-content">
-
-
-
-
 				
 			</div>
 		</div> <!-- end main container fluid -->
